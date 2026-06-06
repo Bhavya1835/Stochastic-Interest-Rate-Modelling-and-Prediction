@@ -1,2 +1,2 @@
 # Stochastic-Interest-Rate-Modelling-and-Prediction
-Finclub Resume Project
+Please open the Model.ipynb and then click on open with colab
